@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Posts"
-    url: /posts/
-  - title: "Portfolio"
     url: https://jonathanerc.github.io/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "Home‽"
   #   url: https://jonathanerc.github.io/
   # - title: "Sample Collections"
