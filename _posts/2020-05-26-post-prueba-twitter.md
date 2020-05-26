@@ -9,7 +9,7 @@ tags:
   - twitter
 ---
 
-Este post es una prueba de Twitter.
+Este post es una prueba de Posts de Twitter Cargados a la pagina:
 
 Post número 1:
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Siempre pensé que I.A significaba Isaac Asimov</p>&mdash; Rons Dotcom (@JonathanERC) <a href="https://twitter.com/JonathanERC/status/796337026173898753?ref_src=twsrc%5Etfw">November 9, 2016</a></blockquote> 
