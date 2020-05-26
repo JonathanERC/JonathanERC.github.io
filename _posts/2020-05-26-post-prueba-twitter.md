@@ -2,6 +2,7 @@
 title: "Post: Prueba de Twitter"
 categories:
   - Media
+  - Post
 tags:
   - content
   - embeds
