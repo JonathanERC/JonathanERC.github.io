@@ -110,7 +110,7 @@ author:
       url: &webgithub "https://github.com/JonathanERC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: &webinstagram"https://instagram.com/j_rondons"
+      url: &webinstagram "https://instagram.com/j_rondons"
 
 # Site Footer
 footer:
