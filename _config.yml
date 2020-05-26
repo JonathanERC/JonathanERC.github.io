@@ -99,47 +99,31 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: *webpage
+      url: *webpage
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: &webtwitter "https://twitter.com/JonathanERC"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: &webtwitter "https://twitter.com/JonathanERC"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: &webgithub "https://github.com/JonathanERC"
+      url: &webgithub "https://github.com/JonathanERC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: &webinstagram"https://instagram.com/j_rondons"
+      url: &webinstagram"https://instagram.com/j_rondons"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: *webtwitter
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: *webtwitter
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: *webgithub
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: *webgithub
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: *webinstagram
-
+      url: *webinstagram
 
 # Reading Files
 include:
