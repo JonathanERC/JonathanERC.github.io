@@ -2,8 +2,8 @@
 main:
   - title: "Posts"
     url: https://jonathanerc.github.io/
-  - title: "Portafolio"
-    url: https://jonathanerc.github.io/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "Home‽"
   #   url: https://jonathanerc.github.io/
   # - title: "Sample Collections"
