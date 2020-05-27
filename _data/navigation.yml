@@ -2,11 +2,11 @@
 main:
   - title: "Posts"
     url: /year-archive/
+  - title: "About me"
+    url: /about/
   - title: "Resume"
     url: /about/
   - title: "Contact"
-    url: /about/
-  - title: "About me"
     url: /about/
   # - title: "Home‽"
   #   url: https://jonathanerc.github.io/
