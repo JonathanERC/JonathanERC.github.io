@@ -58,6 +58,6 @@ Just like this website, my Disclosure Policy is a work in progress. As the reven
 
 ### Note
 
-For this date: `2020-06-03T15:42:38-04:00` and while this **Note** exists, only the paragraph below will be taken into account.
+For this date: `03-06-2020` and while this **Note** exists, only the paragraph below will be taken into account.
 
 Right now there's no comment section, trackers, advertisements or publicity. This website not stored anything in your device, the only cookies you will notice are Third-party ones. I'm not making any money with this site and it content but it does not mean that this policy could be change in the future.
