@@ -48,9 +48,16 @@ Currently I'm an affiliate for Amazon and Google Adsense.
 
 What this means for you:
 
+* No ads will interfere with your experience with the website.
 * I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
 * I do not and will not recommend a product just for the sake of making money.
 * I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+
+## Note
+
+For this date: 2020-06-03T15:42:38-04:00 and while this **Note** exists, only the paragraph below will be taken into account.
+
+Right now there's no comment section, trackers, advertisements or publicity. This website not stored anything in your device, the only cookies you will notice are Third-party ones. I'm not making any money with this site and it content but it does not mean that this policy could be change in the future.
