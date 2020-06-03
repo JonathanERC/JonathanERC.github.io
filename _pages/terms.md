@@ -56,7 +56,7 @@ What this means for you:
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
 
-## Note
+### Note
 
 For this date: 2020-06-03T15:42:38-04:00 and while this **Note** exists, only the paragraph below will be taken into account.
 
